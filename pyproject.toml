@@ -1,6 +1,6 @@
 [project]
 name = "htmlpack"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Conor Maguire", email="conormag@gmail.com" },
 ]
