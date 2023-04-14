@@ -3,7 +3,7 @@ The htmlpack module can be used to help preprocess HTML files for production env
 and more.
 
 ```
-usage: htmlpack.py [-h] [-s] [-v] [-d] path
+usage: python -m htmlpack [-h] [-s] [-v] [-d] path
 
 positional arguments:
   path                  Path to file or folder
