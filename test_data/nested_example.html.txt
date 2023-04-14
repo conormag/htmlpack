@@ -1,0 +1,17 @@
+<!-- This is a top-level comment <br> -->
+<html>
+  <head>
+    <!-- This is a nested comment -->
+    <title>My website</title>
+  </head>
+  <body>
+    <h1>Welcome to my website</h1>
+    <!-- This is another nested comment -->
+    <p>This is some content</p>
+    <!-- This is a comment with multiple nested comments
+         <!-- This is the first nested comment -->
+         <!-- This is the second nested comment -->
+         This is some text after the nested comments
+    -->
+  </body>
+</html>
