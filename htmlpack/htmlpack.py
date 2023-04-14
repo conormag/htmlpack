@@ -100,6 +100,3 @@ def main():
     else:
         sys.exit(f"{path} is not a valid file or folder.")
 
-
-if __name__ == '__main__':
-    main()

@@ -1,0 +1,22 @@
+[project]
+name = "htmlpack"
+version = "0.1.0"
+authors = [
+  { name="Conor Maguire", email="conormag@gmail.com" },
+]
+description = "Pre-process HTML files for production environments. Strip HTML comments."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/conormag/htmlpack"
+"Bug Tracker" = "https://github.com/conormag/htmlpack/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
